@@ -1,0 +1,17 @@
+ ${AnsiBackground.RED}
+           SSSS            SSSSS           SSSS         SSSS            SSSSS
+	   SSSS           SSSSSSS          SSSS         SSSS           SSSSSSS
+           SSSS           SSSSSSS          SSSSS       SSSSS           SSSSSSS
+	   SSSS          SSSS SSSS          SSSS       SSSS           SSSS SSSS
+	   SSSS          SSSS SSSS          SSSS       SSSS           SSSS SSSS
+	   SSSS         SSSS   SSSS         SSSS       SSSS          SSSS   SSSS
+	   SSSS         SSSS   SSSS          SSSS     SSSS           SSSS   SSSS
+	   SSSS        SSSS     SSSS         SSSS     SSSS          SSSS     SSSS
+	   SSSS        SSSS     SSSS         SSSS     SSSS          SSSS     SSSS
+SSSS	   SSSS       SSSSSSSSSSSSSSS         SSSS   SSSS          SSSSSSSSSSSSSSS
+SSSS	   SSSS       SSSSSSSSSSSSSSS         SSSS   SSSS          SSSSSSSSSSSSSSS
+SSSS       SSSS       SSSS       SSSS         SSSS   SSSS          SSSS       SSSS
+ SSSS	  SSSS       SSSSS       SSSSS         SSSSSSSSS          SSSSS       SSSSS
+  SSSSSSSSSSS        SSSS         SSSS          SSSSSSS           SSSS         SSSS
+   SSSSSSSSS         SSSS         SSSS           SSSSS            SSSS         SSSS
+   ${AnsiColor.RED} :: Spring Boot${spring-boot.formatted-version} :: ${AnsiColor.DEFAULT}

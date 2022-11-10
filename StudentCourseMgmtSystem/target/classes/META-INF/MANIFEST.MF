@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: StudentCourseMgmtSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Astegic
+Implementation-Vendor-Id: com.proj
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://spring.io/projects/spring-boot/StudentCour
+ seMgmtSystem
+Created-By: Maven Integration for Eclipse
+
